@@ -1,4 +1,4 @@
 ## user-Task
 
-#### This project uses logom framework to implement some APIs via Java microservices framwork that built on Akka toolkit.
+#### This project uses Logom framework to implement some APIs via Java microservices framwork. Lagom is built on Akka toolkit and supports event-driven architecture .
 
